@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Project" targetName="uninstall" />
+      <config projectName="Project" targetName="UKTest" />
+      <config projectName="Project" targetName="Box2D" />
+      <config projectName="Project" targetName="UK" />
+      <config projectName="Project" targetName="glm_static" />
+      <config projectName="Project" targetName="glm_shared" />
+      <config projectName="Project" targetName="assimp" />
+      <config projectName="Project" targetName="ImGUI" />
+      <config projectName="Project" targetName="PAK" />
+      <config projectName="Project" targetName="IrrXML" />
+      <config projectName="Project" targetName="rttr_core_lib" />
+      <config projectName="Project" targetName="Breakout" />
+      <config projectName="Project" targetName="zlibstatic" />
+      <config projectName="Project" targetName="zlib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" TOOLCHAIN_NAME="Default" BUILD_OPTIONS="-j6" />
+      <configuration PROFILE_NAME="RelWithDebInfo-gcc ccahe" CONFIG_NAME="RelWithDebInfo" TOOLCHAIN_NAME="gcc ccahe" BUILD_OPTIONS="-j6" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34ac1dd4-5408-4053-a170-c3648ffe647b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/bin/jsonschema/bin/jsonschema_suite" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/bin/jsonschema/bin/jsonschema_suite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/fuse_gmock_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/fuse_gmock_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/ast.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/ast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/gmock_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/gmock_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/gmock_class_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/gmock_class_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/tokenize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/tokenize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/cpp/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/gmock_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/generator/gmock_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/gmock-config.in" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/gmock-config.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/gmock_doctor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/gmock_doctor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/upload_gmock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/scripts/upload_gmock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/test/gmock_leak_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/test/gmock_leak_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/test/gmock_output_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/test/gmock_output_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/test/gmock_test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googlemock/test/gmock_test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/fuse_gtest_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/fuse_gtest_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/gen_gtest_pred_impl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/gen_gtest_pred_impl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/gtest-config.in" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/gtest-config.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/pump.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/pump.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/release_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/release_docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/upload_gtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/scripts/upload_gtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_break_on_failure_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_break_on_failure_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_catch_exceptions_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_catch_exceptions_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_color_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_color_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_env_var_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_env_var_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_filter_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_filter_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_help_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_help_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_list_tests_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_list_tests_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_output_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_output_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_shuffle_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_shuffle_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_throw_on_failure_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_throw_on_failure_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_uninitialized_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_uninitialized_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_xml_outfiles_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_xml_outfiles_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_xml_output_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_xml_output_unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_xml_test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/test/gtest_xml_test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/xcode/Scripts/versiongenerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/googletest/xcode/Scripts/versiongenerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/travis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest/travis.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/travis-doxygen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/travis-doxygen.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/.travis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/.travis.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/code/FIReader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/code/FIReader.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/code/glTF2Importer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/code/glTF2Importer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/code/glTFImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/code/glTFImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/3d_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/3d_viewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/3d_viewer_py3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/3d_viewer_py3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/fixed_pipeline_3d_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/fixed_pipeline_3d_viewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/quicktest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/quicktest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/PyAssimp/scripts/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/iOS/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/iOS/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/swig/d/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/swig/d/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/swig/d/generate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/port/swig/d/generate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/test/regression/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp/test/regression/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/imgui" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/imgui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/imgui/examples/example_glfw_vulkan/gen_spv.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/imgui/examples/example_glfw_vulkan/gen_spv.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/rttr" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/rttr" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-relwithdebinfo/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-relwithdebinfo-gcc-ccahe/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:RelWithDebInfo-gcc ccahe" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BreakoutScene.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#40#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7542">
+              <caret line="419" column="105" selection-start-line="419" selection-start-column="105" selection-end-line="419" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui_demo.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32634">
+              <caret line="1813" selection-start-line="1813" selection-end-line="1813" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/Scene.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1063">
+              <caret line="72" column="173" lean-forward="true" selection-start-line="72" selection-start-column="173" selection-end-line="72" selection-end-column="173" />
+              <folding>
+                <element signature="e#106#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/Scene.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="81" column="132" selection-start-line="81" selection-start-column="132" selection-end-line="81" selection-end-column="132" />
+              <folding>
+                <element signature="e#39#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/Debug/BorderVert.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/Debug/BreakoutScene.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coll</find>
+      <find>proje</find>
+      <find>glback</find>
+      <find>proj</find>
+      <find>model</find>
+      <find>objType</find>
+      <find>meth</find>
+      <find>type</find>
+      <find>data,</find>
+      <find>obj.</find>
+      <find>renderScale</find>
+      <find>ENUM</find>
+      <find>exit(0)</find>
+      <find>text</find>
+      <find>ShowDemoWind</find>
+      <find>showDem</find>
+      <find>Log</find>
+      <find>this-&gt;currentScene</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>propertyType</replace>
+      <replace>propertyParentObject,</replace>
+      <replace>value.</replace>
+      <replace>prototype.renderScale</replace>
+      <replace>getCurrentScene90</replace>
+      <replace>getCurrentScene()</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run/Debug/Paddle.json" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Settings/SettingsParser.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Loader.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/ScenePrototype.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneGraph.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneElementPrototype.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneElementPrototype.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneGraph.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity/ImageRenderComponent.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity/ImageRenderComponent.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity/Component.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity/Component.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity/PhysicsBodyComponent.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity/PhysicsBodyComponent.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Engine/EngineConfig.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Engine/EngineConfig.cpp" />
+        <option value="$PROJECT_DIR$/run/Debug/Config.json" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/LogViewer.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Singleton.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Unknown.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/LogViewer.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/ViewerBase.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/CoreEditor.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/ViewerBase.h" />
+        <option value="$PROJECT_DIR$/src/MainMenuScene.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/CollisionManager.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/CollisionManager.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/SceneViewer.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/CoreEditor.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/UnknownTest.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/DebugScene.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/DebugScene.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/RenderTest2D.cpp" />
+        <option value="$PROJECT_DIR$/src/MainMenuScene.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/BasicGraphicsTest.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/PathfindingTest.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/PhysicsTestScene.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/RenderTestScene.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Loader.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/EditorBase.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneManager.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneManager.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/SceneViewer.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Unknown.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/run/Debug/BreakoutScene.json" />
+        <option value="$PROJECT_DIR$/run/Debug/BorderVert.json" />
+        <option value="$PROJECT_DIR$/src/BreakoutScene.h" />
+        <option value="$PROJECT_DIR$/src/BreakoutScene.cpp" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/Scene.h" />
+        <option value="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/Scene.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="width" value="964" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown-1.0-CPP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown-1.0-CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown 1.0++" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown-1.0-CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown 1.0++" type="462c0819:PsiDirectoryNode" />
+              <item name="Editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown-1.0-CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown 1.0++" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown-1.0-CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown 1.0++" type="462c0819:PsiDirectoryNode" />
+              <item name="Imgui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown-1.0-CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Unknown 1.0++" type="462c0819:PsiDirectoryNode" />
+              <item name="Scene" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+              <item name="Debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Breakout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Breakout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Entity" />
+      <recent name="$PROJECT_DIR$/run/Debug" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Box2D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Box2D" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Breakout" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Breakout" CONFIG_NAME="RelWithDebInfo" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Breakout">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/run/Debug" PASS_PARENT_ENVS_2="true" CONFIG_NAME="RelWithDebInfo" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Breakout" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImGUI" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="ImGUI" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IrrXML" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="IrrXML" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PAK" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="PAK" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UK" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="UK" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UKTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="UKTest" CONFIG_NAME="RelWithDebInfo" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="UKTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assimp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="assimp" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glm_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="glm_shared" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glm_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="glm_static" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rttr_core_lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="rttr_core_lib" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="uninstall" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zlib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="zlib" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zlibstatic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="zlibstatic" CONFIG_NAME="RelWithDebInfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.uninstall" />
+      <item itemvalue="Application.assimp" />
+      <item itemvalue="Application.IrrXML" />
+      <item itemvalue="Application.zlib" />
+      <item itemvalue="Application.zlibstatic" />
+      <item itemvalue="Application.glm_shared" />
+      <item itemvalue="Application.glm_static" />
+      <item itemvalue="Application.PAK" />
+      <item itemvalue="Application.rttr_core_lib" />
+      <item itemvalue="Application.UK" />
+      <item itemvalue="Application.Box2D" />
+      <item itemvalue="Application.ImGUI" />
+      <item itemvalue="Application.UKTest" />
+      <item itemvalue="Application.Breakout" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ac1dd4-5408-4053-a170-c3648ffe647b" name="Default Changelist" comment="" />
+      <created>1536802539479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536802539479</updated>
+      <workItem from="1536802540956" duration="9109000" />
+      <workItem from="1536840067759" duration="9064000" />
+      <workItem from="1537885387352" duration="491000" />
+      <workItem from="1543939628101" duration="10249000" />
+      <workItem from="1544015583701" duration="19407000" />
+      <workItem from="1544068207996" duration="1267000" />
+      <workItem from="1544098780073" duration="3103000" />
+      <workItem from="1544107165724" duration="5785000" />
+      <workItem from="1544138507941" duration="55000" />
+      <workItem from="1544138582532" duration="94000" />
+      <workItem from="1544227601718" duration="162000" />
+      <workItem from="1544227776775" duration="54135000" />
+      <workItem from="1544391938248" duration="8918000" />
+      <workItem from="1544445425645" duration="4440000" />
+      <workItem from="1544472405128" duration="3338000" />
+      <workItem from="1544546889013" duration="1117000" />
+      <workItem from="1544622410680" duration="662000" />
+      <workItem from="1544639759577" duration="1809000" />
+      <workItem from="1544891385233" duration="1854000" />
+      <workItem from="1544924430584" duration="3485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138544000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="964" height="1060" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.297593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35042736" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985043" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.28418803" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32799146" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.120726496" />
+      <window_info anchor="bottom" id="YouTrack" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="make" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Engine/EngineConfig.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#137#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/Debug/Config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui_widgets.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="5450" selection-start-line="5450" selection-end-line="5450" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/glcorearb.h" />
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="385" column="87" selection-start-line="385" selection-start-column="75" selection-end-line="385" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/ViewerBase.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/LogViewer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/LogViewer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#40#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/CoreEditor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainMenuScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneElementPrototype.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.2.1/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Settings/SettingsParser.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/Box2D/Box2D/Dynamics/b2World.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="239" column="12" selection-start-line="239" selection-start-column="12" selection-end-line="239" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/Box2D/Box2D/Dynamics/b2World.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/Box2D/Box2D/Dynamics/b2ContactManager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.2.1/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="449" column="8" lean-forward="true" selection-start-line="449" selection-start-column="8" selection-end-line="449" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/CollisionManager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Singleton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#105#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/CoreEditor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#40#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/SceneViewer (conflicted copy 2018-12-09 211313).cpp" />
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/RenderTest2D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Loader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="376" column="64" selection-start-line="376" selection-start-column="64" selection-end-line="376" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/DebugScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/RenderTestScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/PhysicsTestScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/PathfindingTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/BasicGraphicsTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/DebugScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainMenuScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/SceneViewer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="e#40#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui_impl_sdl.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4068">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneManager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/SceneManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+          <folding>
+            <element signature="e#119#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/EditorBase.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="107" column="51" selection-start-line="107" selection-start-column="51" selection-end-line="107" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.2.1/bits/shared_ptr_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17946">
+          <caret line="997" selection-start-line="997" selection-end-line="997" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Unknown.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3708">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+          <folding>
+            <element signature="e#437#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/ViewerBase.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown Test/UnknownTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="212" column="6" selection-start-line="212" selection-start-column="6" selection-end-line="212" selection-end-column="6" />
+          <folding>
+            <element signature="e#79#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Unknown.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="122" column="70" selection-start-line="122" selection-start-column="70" selection-end-line="122" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Editor/SceneViewer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="e#101#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7542">
+          <caret line="419" column="105" selection-start-line="419" selection-start-column="105" selection-end-line="419" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Imgui/imgui_demo.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32634">
+          <caret line="1813" selection-start-line="1813" selection-end-line="1813" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/Debug/BorderVert.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/Debug/BreakoutScene.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreakoutScene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/CollisionManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BreakoutScene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#40#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/Scene.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1063">
+          <caret line="72" column="173" lean-forward="true" selection-start-line="72" selection-start-column="173" selection-end-line="72" selection-end-column="173" />
+          <folding>
+            <element signature="e#106#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Unknown 1.0++/Scene/Scene.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="81" column="132" selection-start-line="81" selection-start-column="132" selection-end-line="81" selection-end-column="132" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

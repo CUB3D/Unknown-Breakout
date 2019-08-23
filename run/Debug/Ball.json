@@ -1,0 +1,28 @@
+{
+  "Tag": "Ball",
+  "Size": {
+    "Width": 0.5,
+    "Height": 0.5
+  },
+  "Components": {
+    "ImageRenderComponent": {
+      "Image": "Ball.png",
+      "RenderScale": 64
+    },
+    "PhysicsBodyComponent": {
+      "BodyDefinition": {
+        "Type": "DynamicBody",
+        "Bullet": true,
+        "FixedRotation": false
+      },
+      "FixtureDefinition": {
+        "Restitution": 0.9,
+        "Friction": 0.3
+      },
+      "Shape": "Circle",
+      "Circle": {
+        "Radius": 0.25
+      }
+    }
+  }
+}

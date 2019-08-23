@@ -1,0 +1,19 @@
+{
+  "Tag": "Paddle",
+  "Size": {
+    "Width": 5.0,
+    "Height": 0.5
+  },
+  "Components": {
+    "ImageRenderComponent": {
+      "Image": "paddle.png",
+      "RenderScale": 64
+    },
+    "PhysicsBodyComponent": {
+      "Shape": "Polygon",
+      "BodyDefinition": {
+        "Type": "KinematicBody"
+      }
+    }
+  }
+}

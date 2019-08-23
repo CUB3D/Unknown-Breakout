@@ -1,0 +1,12 @@
+{
+  "TargetSize": {
+    "Width": 1024,
+    "Height": 1024
+  },
+  "Title":"Breakout",
+  "TargetUPS":60,
+  "MSAA": true,
+  "VSync": 0,
+  "RendererMode": 0,
+  "Editing": true
+}

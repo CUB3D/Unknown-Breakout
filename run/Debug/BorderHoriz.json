@@ -1,0 +1,15 @@
+{
+  "Tag": "BT",
+  "Size": {
+    "Width": 40,
+    "Height": 0.1
+  },
+  "Components": {
+    "PhysicsBodyComponent": {
+      "Shape": "Polygon",
+      "BodyDefinition": {
+        "Type": "StaticBody"
+      }
+    }
+  }
+}

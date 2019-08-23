@@ -1,0 +1,19 @@
+{
+  "Tag": "BR",
+  "Size": {
+    "Width": 0.1,
+    "Height": 100
+  },
+  "Components": {
+    "PhysicsBodyComponent": {
+      "Shape": "Polygon",
+      "BodyDefinition": {
+        "Type": "StaticBody"
+      }
+    },
+    "BasicRenderComponent": {
+      "Colour": "00FF00",
+      "RenderScale": 64
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "SceneElements": [
+    {
+      "Name": "Paddle.json",
+      "Position": {
+        "X": 5,
+        "Y": 15.75
+      }
+    },
+    {
+      "Name": "Ball.json",
+      "Position": {
+        "X": 5,
+        "Y": 14
+      }
+    },
+    {
+      "Name": "BorderHoriz.json",
+      "Position": {
+        "X": 0,
+        "Y": -0.5
+      }
+    },
+    {
+      "Name": "BorderVert.json",
+      "Position": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    {
+      "Name": "BorderVert.json",
+      "Position": {
+        "X": 16.05,
+        "Y": 0
+      }
+    }
+  ]
+}

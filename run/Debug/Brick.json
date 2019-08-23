@@ -1,0 +1,19 @@
+{
+  "Tag": "Brick",
+  "Size": {
+    "Width": 2,
+    "Height": 1
+  },
+  "Components": {
+    "ImageRenderComponent": {
+      "Image": "block.png",
+      "RenderScale": 64
+    },
+    "PhysicsBodyComponent": {
+      "Shape": "Polygon",
+      "BodyDefinition": {
+        "Type": "StaticBody"
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "Libraries/Unknown-1.0-CPP"]
+	path = Libraries/Unknown-1.0-CPP
+	url = https://github.com/CUB3D/Unknown-1.0-CPP

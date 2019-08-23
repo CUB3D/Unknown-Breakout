@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/Box2D" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/RapidJson/thirdparty/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/assimp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/libPAK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/lua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/Unknown-1.0-CPP/Libs/rttr" vcs="Git" />
+  </component>
+</project>
